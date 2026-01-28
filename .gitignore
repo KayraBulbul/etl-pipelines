@@ -1,2 +1,5 @@
 .venv
 cafe_etl_pipeline/.env
+cafe_etl_pipeline/pyrightconfig.json
+retail_etl_pipeline/.env
+retail_etl_pipeline/pyrightconfig.json
